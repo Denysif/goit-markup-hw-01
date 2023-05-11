@@ -10,6 +10,8 @@
 body {
     background-color: #ffffff;
     color: var(--primary-text-color);
+
+    font-family: Roboto, sans-serif
 }
 
 
@@ -23,6 +25,7 @@ body {
 
 .logo {
     color: var(--title-text-color);
+    font-family: Raleway, sans-serif;
 }
 .logo >span {
     color: var(--accent-color);
@@ -57,4 +60,5 @@ body {
 .button {
     color: #ffffff;
     background-color: var(--accent-color);
+    cursor: pointer;
 }
